@@ -29,7 +29,7 @@
   <a href="#-introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-attributes-used">Principal libraries</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#reference">Reference</a>
+  <a href="#-reference">Reference</a>
 </h5><br>
 
 # 📖 Introduction<br>
@@ -48,7 +48,7 @@ TypeScript is a superset of the JavaScript language that has a single open-sourc
 <h3>MongoDB<h3>
 MongoDB is a distributed database, based on documents and general purpose, developed for developers of modern applications and to be used in the cloud.<br>
 
-# Principal libraries<br>
+# 📚 Principal libraries<br>
 
 <h3>Express</h3>
 Express.js is a Node.js web application server framework, designed for building single-page, multi-page, and hybrid web applications. It is the de facto standard server framework for node.js.
