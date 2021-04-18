@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "CommonJS",
+        "allowJs": true,
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "strict": true,
+        "strictPropertyInitialization": false,
+        "moduleResolution": "Node",
+        "baseUrl": "./src",
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitAny": true,
+        "paths": {
+            "@services/*": ["services/*"],
+            "@schemas/*": ["schemas/*"]
+        }
+    },
+    "include": ["src"],
+    "exclude": ["node_modules"]
+}
