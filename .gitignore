@@ -1,13 +1,14 @@
-.tmp
-.sass-cache
-**/bower_components or sometimes it is lib/**
-platforms
-plugins
-*.swp
-*.swo
-*.log
+# Application
+.env
+tmp/*
+!tmp/.gitkeep
+
+# Yarn
 node_modules
-build
-npm-debug.log
-.DS_Store
-.nyc_output
+yarn-error.log
+
+# Jest
+coverage
+
+# Dist
+dist/
