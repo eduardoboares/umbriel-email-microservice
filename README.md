@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EduardoPereiraBoares/my-first-typescript-backend?color=%23E02041">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EduardoPereiraBoares/umbriel-email-microservice?color=%23E02041">
 
   <a href="https://github.com/Group2IntegrationProject/back-end/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EduardoPereiraBoares/my-first-typescript-backend?color=%23E02041">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EduardoPereiraBoares/umbriel-email-microservice?color=%23E02041">
   </a>
 
-   <img alt="GitHub" src="https://img.shields.io/github/license/EduardoPereiraBoares/my-first-typescript-backend?color=%23E02041">
+   <img alt="GitHub" src="https://img.shields.io/github/license/EduardoPereiraBoares/umbriel-email-microservice?color=%23E02041">
 </p>
 
 <h5 align="center">
